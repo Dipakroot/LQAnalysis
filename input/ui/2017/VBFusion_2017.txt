@@ -1,0 +1,8 @@
+root://se01.indiacms.res.in//cms/store/user/idas/Output/cms-hcs-run2/Skim_NanoAODUL/2017/WW_Skim_NanoAOD_1of3.root
+root://se01.indiacms.res.in//cms/store/user/idas/Output/cms-hcs-run2/Skim_NanoAODUL/2017/WW_Skim_NanoAOD_2of3.root
+root://se01.indiacms.res.in//cms/store/user/idas/Output/cms-hcs-run2/Skim_NanoAODUL/2017/WW_Skim_NanoAOD_3of3.root
+root://se01.indiacms.res.in//cms/store/user/idas/Output/cms-hcs-run2/Skim_NanoAODUL/2017/WZ_Skim_NanoAOD_1of4.root
+root://se01.indiacms.res.in//cms/store/user/idas/Output/cms-hcs-run2/Skim_NanoAODUL/2017/WZ_Skim_NanoAOD_2of4.root
+root://se01.indiacms.res.in//cms/store/user/idas/Output/cms-hcs-run2/Skim_NanoAODUL/2017/WZ_Skim_NanoAOD_3of4.root
+root://se01.indiacms.res.in//cms/store/user/idas/Output/cms-hcs-run2/Skim_NanoAODUL/2017/WZ_Skim_NanoAOD_4of4.root
+root://se01.indiacms.res.in//cms/store/user/idas/Output/cms-hcs-run2/Skim_NanoAODUL/2017/ZZ_Skim_NanoAOD.root

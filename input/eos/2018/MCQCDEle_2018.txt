@@ -1,0 +1,13 @@
+root://eosuser.cern.ch//eos/user/i/idas/Output/cms-hcs-run2/Skim_NanoAODUL/2018/QCD_Pt120to170_Ele_Skim_NanoAOD_1of3.root
+root://eosuser.cern.ch//eos/user/i/idas/Output/cms-hcs-run2/Skim_NanoAODUL/2018/QCD_Pt120to170_Ele_Skim_NanoAOD_2of3.root
+root://eosuser.cern.ch//eos/user/i/idas/Output/cms-hcs-run2/Skim_NanoAODUL/2018/QCD_Pt120to170_Ele_Skim_NanoAOD_3of3.root
+root://eosuser.cern.ch//eos/user/i/idas/Output/cms-hcs-run2/Skim_NanoAODUL/2018/QCD_Pt170to300_Ele_Skim_NanoAOD.root
+root://eosuser.cern.ch//eos/user/i/idas/Output/cms-hcs-run2/Skim_NanoAODUL/2018/QCD_Pt300toInf_Ele_Skim_NanoAOD.root
+root://eosuser.cern.ch//eos/user/i/idas/Output/cms-hcs-run2/Skim_NanoAODUL/2018/QCD_Pt30to50_Ele_Skim_NanoAOD_1of5.root
+root://eosuser.cern.ch//eos/user/i/idas/Output/cms-hcs-run2/Skim_NanoAODUL/2018/QCD_Pt30to50_Ele_Skim_NanoAOD_2of5.root
+root://eosuser.cern.ch//eos/user/i/idas/Output/cms-hcs-run2/Skim_NanoAODUL/2018/QCD_Pt30to50_Ele_Skim_NanoAOD_3of5.root
+root://eosuser.cern.ch//eos/user/i/idas/Output/cms-hcs-run2/Skim_NanoAODUL/2018/QCD_Pt30to50_Ele_Skim_NanoAOD_4of5.root
+root://eosuser.cern.ch//eos/user/i/idas/Output/cms-hcs-run2/Skim_NanoAODUL/2018/QCD_Pt30to50_Ele_Skim_NanoAOD_5of5.root
+root://eosuser.cern.ch//eos/user/i/idas/Output/cms-hcs-run2/Skim_NanoAODUL/2018/QCD_Pt50to80_Ele_Skim_NanoAOD.root
+root://eosuser.cern.ch//eos/user/i/idas/Output/cms-hcs-run2/Skim_NanoAODUL/2018/QCD_Pt80to120_Ele_Skim_NanoAOD_1of2.root
+root://eosuser.cern.ch//eos/user/i/idas/Output/cms-hcs-run2/Skim_NanoAODUL/2018/QCD_Pt80to120_Ele_Skim_NanoAOD_2of2.root

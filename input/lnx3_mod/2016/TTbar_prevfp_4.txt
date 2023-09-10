@@ -1,0 +1,11 @@
+/run/media/indra/DHEP_Storage_2/Data/NanoAOD/Skim_NanoAODUL/2016/TTbarPowheg_Dilepton_preVFP_Skim_NanoAOD_5of6.root
+/run/media/indra/DHEP_Storage_2/Data/NanoAOD/Skim_NanoAODUL/2016/TTbarPowheg_Dilepton_preVFP_Skim_NanoAOD_6of6.root
+/run/media/indra/DHEP_Storage_2/Data/NanoAOD/Skim_NanoAODUL/2016/TTbarPowheg_Hadronic_preVFP_Skim_NanoAOD_6of16.root
+/run/media/indra/DHEP_Storage_2/Data/NanoAOD/Skim_NanoAODUL/2016/TTbarPowheg_Hadronic_preVFP_Skim_NanoAOD_7of16.root
+/run/media/indra/DHEP_Storage_2/Data/NanoAOD/Skim_NanoAODUL/2016/TTbarPowheg_Hadronic_preVFP_Skim_NanoAOD_8of16.root
+/run/media/indra/DHEP_Storage_2/Data/NanoAOD/Skim_NanoAODUL/2016/TTbarPowheg_Hadronic_preVFP_Skim_NanoAOD_9of16.root
+/run/media/indra/DHEP_Storage_2/Data/NanoAOD/Skim_NanoAODUL/2016/TTbarPowheg_Semilept_preVFP_Skim_NanoAOD_3of23.root
+/run/media/indra/DHEP_Storage_2/Data/NanoAOD/Skim_NanoAODUL/2016/TTbarPowheg_Semilept_preVFP_Skim_NanoAOD_4of23.root
+/run/media/indra/DHEP_Storage_2/Data/NanoAOD/Skim_NanoAODUL/2016/TTbarPowheg_Semilept_preVFP_Skim_NanoAOD_5of23.root
+/run/media/indra/DHEP_Storage_2/Data/NanoAOD/Skim_NanoAODUL/2016/TTbarPowheg_Semilept_preVFP_Skim_NanoAOD_6of23.root
+/run/media/indra/DHEP_Storage_2/Data/NanoAOD/Skim_NanoAODUL/2016/TTbarPowheg_Semilept_preVFP_Skim_NanoAOD_9of23.root

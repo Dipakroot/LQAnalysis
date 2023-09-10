@@ -1,0 +1,1 @@
+root://eosuser.cern.ch//eos/user/d/dmaity/LQsToTauTauTTbar/Analysis/Skim/LQsToTauTauTTbar_1000_NanoAOD_skim_without_TriggerANDFilters.root

@@ -1,0 +1,1 @@
+root://eosuser.cern.ch//eos/user/i/idas/Output/cms-hcs-run2/Skim_NanoAODUL/2018/HplusM100_Skim_NanoAOD.root

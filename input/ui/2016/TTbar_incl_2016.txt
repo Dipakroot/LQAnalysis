@@ -1,0 +1,16 @@
+root://se01.indiacms.res.in//cms/store/user/idas/Output/cms-hcs-run2/Skim_NanoAODLR/2016/TTbarPowheg_inclusive_Skim_NanoAOD_10of16.root
+root://se01.indiacms.res.in//cms/store/user/idas/Output/cms-hcs-run2/Skim_NanoAODLR/2016/TTbarPowheg_inclusive_Skim_NanoAOD_11of16.root
+root://se01.indiacms.res.in//cms/store/user/idas/Output/cms-hcs-run2/Skim_NanoAODLR/2016/TTbarPowheg_inclusive_Skim_NanoAOD_12of16.root
+root://se01.indiacms.res.in//cms/store/user/idas/Output/cms-hcs-run2/Skim_NanoAODLR/2016/TTbarPowheg_inclusive_Skim_NanoAOD_13of16.root
+root://se01.indiacms.res.in//cms/store/user/idas/Output/cms-hcs-run2/Skim_NanoAODLR/2016/TTbarPowheg_inclusive_Skim_NanoAOD_14of16.root
+root://se01.indiacms.res.in//cms/store/user/idas/Output/cms-hcs-run2/Skim_NanoAODLR/2016/TTbarPowheg_inclusive_Skim_NanoAOD_15of16.root
+root://se01.indiacms.res.in//cms/store/user/idas/Output/cms-hcs-run2/Skim_NanoAODLR/2016/TTbarPowheg_inclusive_Skim_NanoAOD_16of16.root
+root://se01.indiacms.res.in//cms/store/user/idas/Output/cms-hcs-run2/Skim_NanoAODLR/2016/TTbarPowheg_inclusive_Skim_NanoAOD_1of16.root
+root://se01.indiacms.res.in//cms/store/user/idas/Output/cms-hcs-run2/Skim_NanoAODLR/2016/TTbarPowheg_inclusive_Skim_NanoAOD_2of16.root
+root://se01.indiacms.res.in//cms/store/user/idas/Output/cms-hcs-run2/Skim_NanoAODLR/2016/TTbarPowheg_inclusive_Skim_NanoAOD_3of16.root
+root://se01.indiacms.res.in//cms/store/user/idas/Output/cms-hcs-run2/Skim_NanoAOD/2016/TTbarPowheg_inclusive_Skim_NanoAOD_4of16.root
+root://se01.indiacms.res.in//cms/store/user/idas/Output/cms-hcs-run2/Skim_NanoAODLR/2016/TTbarPowheg_inclusive_Skim_NanoAOD_5of16.root
+root://se01.indiacms.res.in//cms/store/user/idas/Output/cms-hcs-run2/Skim_NanoAODLR/2016/TTbarPowheg_inclusive_Skim_NanoAOD_6of16.root
+root://se01.indiacms.res.in//cms/store/user/idas/Output/cms-hcs-run2/Skim_NanoAODLR/2016/TTbarPowheg_inclusive_Skim_NanoAOD_7of16.root
+root://se01.indiacms.res.in//cms/store/user/idas/Output/cms-hcs-run2/Skim_NanoAODLR/2016/TTbarPowheg_inclusive_Skim_NanoAOD_8of16.root
+root://se01.indiacms.res.in//cms/store/user/idas/Output/cms-hcs-run2/Skim_NanoAODLR/2016/TTbarPowheg_inclusive_Skim_NanoAOD_9of16.root

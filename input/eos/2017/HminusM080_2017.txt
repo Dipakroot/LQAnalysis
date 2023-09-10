@@ -1,0 +1,1 @@
+root://eosuser.cern.ch//eos/cms/store/group/phys_higgs/HiggsExo/idas/cms-hcs-run2/Skim_NanoAODUL/2017/HminusM080_Skim_NanoAOD.root

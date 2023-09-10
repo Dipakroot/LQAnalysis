@@ -1,0 +1,7 @@
+root://eosuser.cern.ch//eos/user/i/imirza/idas/Output/cms-hcs-run2/Skim_NanoAODUL/2016/WW_preVFP_Skim_NanoAOD_1of4.root
+root://eosuser.cern.ch//eos/user/i/imirza/idas/Output/cms-hcs-run2/Skim_NanoAODUL/2016/WW_preVFP_Skim_NanoAOD_2of4.root
+root://eosuser.cern.ch//eos/user/i/imirza/idas/Output/cms-hcs-run2/Skim_NanoAODUL/2016/WW_preVFP_Skim_NanoAOD_3of4.root
+root://eosuser.cern.ch//eos/user/i/imirza/idas/Output/cms-hcs-run2/Skim_NanoAODUL/2016/WW_preVFP_Skim_NanoAOD_4of4.root
+root://eosuser.cern.ch//eos/user/i/imirza/idas/Output/cms-hcs-run2/Skim_NanoAODUL/2016/WZ_preVFP_Skim_NanoAOD_1of2.root
+root://eosuser.cern.ch//eos/user/i/imirza/idas/Output/cms-hcs-run2/Skim_NanoAODUL/2016/WZ_preVFP_Skim_NanoAOD_2of2.root
+root://eosuser.cern.ch//eos/user/i/imirza/idas/Output/cms-hcs-run2/Skim_NanoAODUL/2016/ZZ_preVFP_Skim_NanoAOD.root

@@ -1,0 +1,1 @@
+root://eosuser.cern.ch//eos/user/d/dmaity/LQsToTauTauTTbar/Final_NanoAOD/100.root

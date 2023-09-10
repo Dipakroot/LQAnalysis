@@ -1,0 +1,1 @@
+/Data/root_files/AOD_files/NanoAODUL/2016/TTbarPowheg_Semilept_hdampdown_postVFP_Skim_NanoAOD_1of10.root

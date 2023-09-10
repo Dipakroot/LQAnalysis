@@ -1,0 +1,8 @@
+/run/media/indra/DHEP_Storage_2/Data/NanoAOD/Skim_NanoAOD/2017/QCD_Pt120to170_Ele_Skim_NanoAOD.root
+/run/media/indra/DHEP_Storage_2/Data/NanoAOD/Skim_NanoAOD/2017/QCD_Pt170to300_Ele_Skim_NanoAOD.root
+/run/media/indra/DHEP_Storage_2/Data/NanoAOD/Skim_NanoAOD/2017/QCD_Pt20to30_Ele_Skim_NanoAOD.root
+/run/media/indra/DHEP_Storage_2/Data/NanoAOD/Skim_NanoAOD/2017/QCD_Pt300toInf_Ele_Skim_NanoAOD.root
+/run/media/indra/DHEP_Storage_2/Data/NanoAOD/Skim_NanoAOD/2017/QCD_Pt30to50_Ele_Skim_NanoAOD_1of2.root
+/run/media/indra/DHEP_Storage_2/Data/NanoAOD/Skim_NanoAOD/2017/QCD_Pt30to50_Ele_Skim_NanoAOD_2of2.root
+/run/media/indra/DHEP_Storage_2/Data/NanoAOD/Skim_NanoAOD/2017/QCD_Pt50to80_Ele_Skim_NanoAOD.root
+/run/media/indra/DHEP_Storage_2/Data/NanoAOD/Skim_NanoAOD/2017/QCD_Pt80to120_Ele_Skim_NanoAOD.root

@@ -1,0 +1,4 @@
+1168  cat /Data/CMS-Analysis/NanoAOD-Analysis/Git_KinFit_Skim/KinFit_Skim/CBA_Skim/weightUL/BtagSF/2016/DeepCSV_106XUL16preVFPSF_v1.csv | grep "M,"| awk -F, '{printf "1, %s, %s, %s, %s, %s, %s, %s, %s, %s, \"%s\" \n", $2, $3, $4, $5, $6, $7, $8, $9, $10, $11}' >> /tmp/fomatted_a.txt 
+ 1169  cat /Data/CMS-Analysis/NanoAOD-Analysis/Git_KinFit_Skim/KinFit_Skim/CBA_Skim/weightUL/BtagSF/2016/DeepCSV_106XUL16preVFPSF_v1.csv | grep "L,"| awk -F, '{printf "0, %s, %s, %s, %s, %s, %s, %s, %s, %s, \"%s\" \n", $2, $3, $4, $5, $6, $7, $8, $9, $10, $11}' >> /tmp/fomatted_a.txt 
+ 1171  cat /Data/CMS-Analysis/NanoAOD-Analysis/Git_KinFit_Skim/KinFit_Skim/CBA_Skim/weightUL/BtagSF/2016/DeepCSV_106XUL16preVFPSF_v1.csv | grep "T,"| awk -F, '{printf "2, %s, %s, %s, %s, %s, %s, %s, %s, %s, \"%s\" \n", $2, $3, $4, $5, $6, $7, $8, $9, $10, $11}' >> /tmp/fomatted_a.txt 
+
